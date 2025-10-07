@@ -3,6 +3,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![Pull Requests][p.r-shield]][p.r-url]
 
 
 
@@ -91,4 +92,5 @@ with contributions from Carter Feldman (https://x.com/cmpeq)."
 [stars-url]: https://github.com/QEDProtocol/doge-on-solana/stargazers
 [issues-shield]: https://img.shields.io/github/issues/QEDProtocol/doge-on-solana.svg?style=for-the-badge
 [issues-url]: https://github.com/QEDProtocol/doge-on-solana/issues
-
+[p.r-shield]: https://img.shields.io/github/issues-pr/QEDProtocol/doge-on-solana.svg?style=for-the-badge
+[p.r-url]: https://github.com/PsyProtocol/doge-on-solana/pulls
